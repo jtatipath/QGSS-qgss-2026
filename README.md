@@ -1,4 +1,3 @@
-# Qiskit Global Summer School 2026 (QGSS2026)
+# Posting solutions online is not allowed and can make you no longer eligible for the Qiskit Global Summer School Batch!
 
-This repository is hosting the graded exercises (called labs) for the QGSS2026.
-We will add the new labs as the release. 
+If you see a pull request with this, please make your repository private. 
